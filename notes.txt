@@ -1,1 +1,2 @@
 This is my first Git practice file
+Line from MAIN branch
